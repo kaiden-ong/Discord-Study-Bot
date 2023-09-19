@@ -1,0 +1,18 @@
+class Solution:
+    def printWord(self, word):
+        return word[1:]
+
+
+obs.1687113712.E05TU249101G8RF.zip
+
+!add
+!todo 
+!remove
+!checkoff
+!completed
+!view
+!reset
+
+!start 
+!end
+!timer

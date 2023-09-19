@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Run studyHard2.py",
+        "type": "shell",
+        "command": "python",
+        "args": ["studyHard2.py"],
+        "presentation": {
+          "focus": true,
+          "panel": "shared",
+          "showReuseMessage": true,
+          "clear": true
+        },
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
